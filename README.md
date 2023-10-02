@@ -5,14 +5,14 @@ Preparation phase of the online proctoring system including identity verificatio
 - Facial Verification คือ ระบบสแกนใบหน้าที่จะทำการประมวลผลเพื่อเปรียบเทียบภาพสองภาพในขั้นตอนการตรวจจับใบหน้าเพื่อยืนยันตัวบุคคล เช่น การสแกนภาพในวีซ่ากับภาพใบหน้าปัจจุบันเพื่อยืนยันตัวตนเข้าระบบ หรือ การสแกนภาพในบัตรประชาชนกับภาพใบหน้าปัจจุบัน เพื่อเข้าระบบบัญชีธนาคาร หรือภาพในฐานข้อมูลกับภาพถ่ายจากกล้องหน้าประตูเพื่อทำการอนุญาตให้เข้าถึงพื้นที่ในอาคาร เป็นต้น
 - A one-to-one mapping of a given face against a known identity (e.g. is this the person?).
 
-![explain1](./explain1.png)
+![explain1](./asset/explain1.png)
 
 
 ### Pipeline [Link reference](https://medium.com/backprop-labs/face-recognition-pipeline-clearly-explained-f57fc0082750)
 
 
-![pipeline](./pipeline.png)
-![pipeline2](./pipeline2.png)
+![pipeline](./asset/pipeline.png)
+![pipeline2](./asset/pipeline2.png)
 
 **There are four major stages**:
 1. Face Detection
