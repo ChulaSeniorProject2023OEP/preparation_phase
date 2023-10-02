@@ -59,6 +59,9 @@ The final stage of face detection technology is to make a decision whether the f
 - Detecting whether it's the face from `Deepfake` or not.
 - Verify FACE ID even the user is wearing a glasses.
 
+
+## TODO
+
 [x] Set up pipeline to collect verification image in local repository.
 
 [x] Set up pipeline to verify identity.
@@ -66,6 +69,8 @@ The final stage of face detection technology is to make a decision whether the f
 [x] Perform verification in real time.
 
 [ ] Break workflow into smaller components.
+
+[ ] Find dataset for evaluation each model.
 
 [ ] Visualize the evaluation and metrics.
 
