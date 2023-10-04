@@ -34,7 +34,7 @@ def verify_face(frame):
     global result
     try:
         result = DeepFace.verify(frame, reference_img.copy(), model_name=model_name)
-        print(result)
+        # print(result)
         if result["verified"]:
             face_match = True
         else:

@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 /database/verification_images/*
+deepface
