@@ -14,7 +14,17 @@ VERIFICATION_IMAGE_PATH = os.path.join(
 counter = 0
 
 face_match = False
-model_name = "Facenet"
+# recognition model -> SFace
+model_name = "SFace"
+# Detector model -> use Yunet
+backend_detector = "yunet"
+# use metric as Euclidean L2 form from author's clain
+distance_metric = "cosine"
+# prevent exception when the face is not detected
+enforce_detection = True
+align = True
+# Normalization technique -> base = no normalization
+normalization = "base"
 # result = {'facial_areas': {'img1': {'x': 0, 'y': 0, 'w': 0, 'h': 0}, 'img2': {'x': 0, 'y': 0, 'w': 0, 'h': 0}}}
 
 reference_img = cv2.imread(VERIFICATION_IMAGE_PATH)
@@ -33,7 +43,15 @@ def verify_face(frame):
     global face_match
     global result
     try:
-        result = DeepFace.verify(frame, reference_img.copy(), model_name=model_name)
+        result = DeepFace.verify(frame,
+                                reference_img.copy(), 
+                                model_name=model_name,
+                                detector_backend=backend_detector,
+                                distance_metric=distance_metric,
+                                enforce_detection=enforce_detection,
+                                align=align,
+                                normalization=normalization,
+                                )
         # print(result)
         if result["verified"]:
             face_match = True
