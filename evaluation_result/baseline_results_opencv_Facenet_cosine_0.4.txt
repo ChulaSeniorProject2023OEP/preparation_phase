@@ -1,0 +1,17 @@
+Model Evaluation
+Face Detector: opencv
+Face Recognizer: Facenet
+Distance Metric: cosine
+Threshold: 0.4
+Accuracy: 0.8240
+Confusion Matrix:
+[[2991    9]
+ [1047 1953]]
+True Negatives: 2991
+False Positives: 9
+False Negatives: 1047
+True Positives: 1953
+Precision: 0.9954
+Recall: 0.6510
+TPR: 0.6510
+FPR: 0.0030

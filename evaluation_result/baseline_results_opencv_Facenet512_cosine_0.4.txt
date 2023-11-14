@@ -1,0 +1,15 @@
+Baseline Model Evaluation
+Face Detector: opencv
+Face Recognizer: Facenet512
+Distance Metric: cosine
+Threshold: 0.4
+Accuracy: 0.8558
+Confusion Matrix:
+[[2999    1]
+ [ 864 2136]]
+True Negatives: 2999
+False Positives: 1
+False Negatives: 864
+True Positives: 2136
+Precision: 0.9995
+Recall: 0.7120

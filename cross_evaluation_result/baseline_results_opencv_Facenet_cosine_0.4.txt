@@ -1,0 +1,446 @@
+Fold 1
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8117
+Confusion Matrix:
+[[299   1]
+ [112 188]]
+True Positives: 188
+True Negatives: 299
+False Positives: 1
+False Negatives: 112
+Precision: 0.9947
+Recall: 0.6267
+============
+Fold 2
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8150
+Confusion Matrix:
+[[298   2]
+ [109 191]]
+True Positives: 191
+True Negatives: 298
+False Positives: 2
+False Negatives: 109
+Precision: 0.9896
+Recall: 0.6367
+============
+Fold 3
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8233
+Confusion Matrix:
+[[299   1]
+ [105 195]]
+True Positives: 195
+True Negatives: 299
+False Positives: 1
+False Negatives: 105
+Precision: 0.9949
+Recall: 0.6500
+============
+Fold 4
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.7967
+Confusion Matrix:
+[[300   0]
+ [122 178]]
+True Positives: 178
+True Negatives: 300
+False Positives: 0
+False Negatives: 122
+Precision: 1.0000
+Recall: 0.5933
+============
+Fold 5
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8250
+Confusion Matrix:
+[[300   0]
+ [105 195]]
+True Positives: 195
+True Negatives: 300
+False Positives: 0
+False Negatives: 105
+Precision: 1.0000
+Recall: 0.6500
+============
+Fold 6
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8350
+Confusion Matrix:
+[[297   3]
+ [ 96 204]]
+True Positives: 204
+True Negatives: 297
+False Positives: 3
+False Negatives: 96
+Precision: 0.9855
+Recall: 0.6800
+============
+Fold 7
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8417
+Confusion Matrix:
+[[300   0]
+ [ 95 205]]
+True Positives: 205
+True Negatives: 300
+False Positives: 0
+False Negatives: 95
+Precision: 1.0000
+Recall: 0.6833
+============
+Fold 8
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8133
+Confusion Matrix:
+[[300   0]
+ [112 188]]
+True Positives: 188
+True Negatives: 300
+False Positives: 0
+False Negatives: 112
+Precision: 1.0000
+Recall: 0.6267
+============
+Fold 9
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8417
+Confusion Matrix:
+[[300   0]
+ [ 95 205]]
+True Positives: 205
+True Negatives: 300
+False Positives: 0
+False Negatives: 95
+Precision: 1.0000
+Recall: 0.6833
+============
+Fold 10
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8367
+Confusion Matrix:
+[[298   2]
+ [ 96 204]]
+True Positives: 204
+True Negatives: 298
+False Positives: 2
+False Negatives: 96
+Precision: 0.9903
+Recall: 0.6800
+============
+Mean classification accuracy: 0.8240
+============
+Fold 1
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8117
+Confusion Matrix:
+[[299   1]
+ [112 188]]
+True Positives: 188
+True Negatives: 299
+False Positives: 1
+False Negatives: 112
+Precision: 0.9947
+Recall: 0.6267
+============
+Fold 2
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8150
+Confusion Matrix:
+[[298   2]
+ [109 191]]
+True Positives: 191
+True Negatives: 298
+False Positives: 2
+False Negatives: 109
+Precision: 0.9896
+Recall: 0.6367
+============
+Fold 3
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8233
+Confusion Matrix:
+[[299   1]
+ [105 195]]
+True Positives: 195
+True Negatives: 299
+False Positives: 1
+False Negatives: 105
+Precision: 0.9949
+Recall: 0.6500
+============
+Fold 4
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.7967
+Confusion Matrix:
+[[300   0]
+ [122 178]]
+True Positives: 178
+True Negatives: 300
+False Positives: 0
+False Negatives: 122
+Precision: 1.0000
+Recall: 0.5933
+============
+Fold 5
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8250
+Confusion Matrix:
+[[300   0]
+ [105 195]]
+True Positives: 195
+True Negatives: 300
+False Positives: 0
+False Negatives: 105
+Precision: 1.0000
+Recall: 0.6500
+============
+Fold 6
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8350
+Confusion Matrix:
+[[297   3]
+ [ 96 204]]
+True Positives: 204
+True Negatives: 297
+False Positives: 3
+False Negatives: 96
+Precision: 0.9855
+Recall: 0.6800
+============
+Fold 7
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8417
+Confusion Matrix:
+[[300   0]
+ [ 95 205]]
+True Positives: 205
+True Negatives: 300
+False Positives: 0
+False Negatives: 95
+Precision: 1.0000
+Recall: 0.6833
+============
+Fold 8
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8133
+Confusion Matrix:
+[[300   0]
+ [112 188]]
+True Positives: 188
+True Negatives: 300
+False Positives: 0
+False Negatives: 112
+Precision: 1.0000
+Recall: 0.6267
+============
+Fold 9
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8417
+Confusion Matrix:
+[[300   0]
+ [ 95 205]]
+True Positives: 205
+True Negatives: 300
+False Positives: 0
+False Negatives: 95
+Precision: 1.0000
+Recall: 0.6833
+============
+Fold 10
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8367
+Confusion Matrix:
+[[298   2]
+ [ 96 204]]
+True Positives: 204
+True Negatives: 298
+False Positives: 2
+False Negatives: 96
+Precision: 0.9903
+Recall: 0.6800
+============
+Mean classification accuracy: 0.8240
+Mean confusion matrix:
+[[299.1   0.9]
+ [104.7 195.3]]
+Mean true positives: 195.3
+Mean true negatives: 299.1
+Mean false positives: 0.9
+Mean false negatives: 104.7
+Mean precision: 0.9955
+Mean recall: 0.6510
+============
+Fold 1
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8117
+Confusion Matrix:
+[[299   1]
+ [112 188]]
+True Positives: 188
+True Negatives: 299
+False Positives: 1
+False Negatives: 112
+Precision: 0.9947
+Recall: 0.6267
+============
+Fold 2
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8150
+Confusion Matrix:
+[[298   2]
+ [109 191]]
+True Positives: 191
+True Negatives: 298
+False Positives: 2
+False Negatives: 109
+Precision: 0.9896
+Recall: 0.6367
+============
+Fold 3
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8233
+Confusion Matrix:
+[[299   1]
+ [105 195]]
+True Positives: 195
+True Negatives: 299
+False Positives: 1
+False Negatives: 105
+Precision: 0.9949
+Recall: 0.6500
+============
+Fold 4
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.7967
+Confusion Matrix:
+[[300   0]
+ [122 178]]
+True Positives: 178
+True Negatives: 300
+False Positives: 0
+False Negatives: 122
+Precision: 1.0000
+Recall: 0.5933
+============
+Fold 5
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8250
+Confusion Matrix:
+[[300   0]
+ [105 195]]
+True Positives: 195
+True Negatives: 300
+False Positives: 0
+False Negatives: 105
+Precision: 1.0000
+Recall: 0.6500
+============
+Fold 6
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8350
+Confusion Matrix:
+[[297   3]
+ [ 96 204]]
+True Positives: 204
+True Negatives: 297
+False Positives: 3
+False Negatives: 96
+Precision: 0.9855
+Recall: 0.6800
+============
+Fold 7
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8417
+Confusion Matrix:
+[[300   0]
+ [ 95 205]]
+True Positives: 205
+True Negatives: 300
+False Positives: 0
+False Negatives: 95
+Precision: 1.0000
+Recall: 0.6833
+============
+Fold 8
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8133
+Confusion Matrix:
+[[300   0]
+ [112 188]]
+True Positives: 188
+True Negatives: 300
+False Positives: 0
+False Negatives: 112
+Precision: 1.0000
+Recall: 0.6267
+============
+Fold 9
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8417
+Confusion Matrix:
+[[300   0]
+ [ 95 205]]
+True Positives: 205
+True Negatives: 300
+False Positives: 0
+False Negatives: 95
+Precision: 1.0000
+Recall: 0.6833
+============
+Fold 10
+Threshold: 0.40
+Total number of pairs: 600
+Accuracy: 0.8367
+Confusion Matrix:
+[[298   2]
+ [ 96 204]]
+True Positives: 204
+True Negatives: 298
+False Positives: 2
+False Negatives: 96
+Precision: 0.9903
+Recall: 0.6800
+============
+Mean classification accuracy: 0.8240
+Mean confusion matrix:
+[[299.1   0.9]
+ [104.7 195.3]]
+Mean true positives: 195.3
+Mean true negatives: 299.1
+Mean false positives: 0.9
+Mean false negatives: 104.7
+Mean precision: 0.9955
+Mean recall: 0.6510
+Mean TPR: 0.6510
+Mean FPR: 0.0030
+============

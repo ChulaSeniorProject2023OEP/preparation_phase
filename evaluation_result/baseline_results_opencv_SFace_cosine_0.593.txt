@@ -1,0 +1,17 @@
+Model Evaluation
+Face Detector: opencv
+Face Recognizer: SFace
+Distance Metric: cosine
+Threshold: 0.593
+Accuracy: 0.8363
+Confusion Matrix:
+[[2995    5]
+ [ 977 2023]]
+True Negatives: 2995
+False Positives: 5
+False Negatives: 977
+True Positives: 2023
+Precision: 0.9975
+Recall: 0.6743
+TPR: 0.6743
+FPR: 0.0017

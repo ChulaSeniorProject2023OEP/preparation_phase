@@ -1,0 +1,15 @@
+Fine-tune threshold Evaluation
+Face Detector: opencv
+Face Recognizer: ArcFace
+Distance Metric: cosine
+Threshold: 0.73
+Accuracy: 0.9270
+Confusion Matrix:
+[[2923   77]
+ [ 361 2639]]
+True Negatives: 2923
+False Positives: 77
+False Negatives: 361
+True Positives: 2639
+Precision: 0.9716
+Recall: 0.8797

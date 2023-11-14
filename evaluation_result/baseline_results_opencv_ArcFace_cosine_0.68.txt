@@ -1,0 +1,17 @@
+Model Evaluation
+Face Detector: opencv
+Face Recognizer: ArcFace
+Distance Metric: cosine
+Threshold: 0.68
+Accuracy: 0.9233
+Confusion Matrix:
+[[2963   37]
+ [ 423 2577]]
+True Negatives: 2963
+False Positives: 37
+False Negatives: 423
+True Positives: 2577
+Precision: 0.9858
+Recall: 0.8590
+TPR: 0.8590
+FPR: 0.0123

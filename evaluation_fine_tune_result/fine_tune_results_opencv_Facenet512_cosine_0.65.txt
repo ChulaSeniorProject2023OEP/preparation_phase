@@ -1,0 +1,15 @@
+Fine-tune threshold Evaluation
+Face Detector: opencv
+Face Recognizer: Facenet512
+Distance Metric: cosine
+Threshold: 0.65
+Accuracy: 0.9450
+Confusion Matrix:
+[[2877  123]
+ [ 207 2793]]
+True Negatives: 2877
+False Positives: 123
+False Negatives: 207
+True Positives: 2793
+Precision: 0.9578
+Recall: 0.9310

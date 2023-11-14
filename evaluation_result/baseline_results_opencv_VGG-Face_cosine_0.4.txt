@@ -1,0 +1,17 @@
+Model Evaluation
+Face Detector: opencv
+Face Recognizer: VGG-Face
+Distance Metric: cosine
+Threshold: 0.4
+Accuracy: 0.8687
+Confusion Matrix:
+[[2534  466]
+ [ 322 2678]]
+True Negatives: 2534
+False Positives: 466
+False Negatives: 322
+True Positives: 2678
+Precision: 0.8518
+Recall: 0.8927
+TPR: 0.8927
+FPR: 0.1553
