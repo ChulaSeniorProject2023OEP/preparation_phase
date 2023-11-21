@@ -1,0 +1,17 @@
+Model Evaluation
+Face Detector: retinaface
+Face Recognizer: SFace
+Distance Metric: cosine
+Threshold: 0.593
+Accuracy: 0.8048
+Confusion Matrix:
+[[2991    9]
+ [1162 1838]]
+True Negatives: 2991
+False Positives: 9
+False Negatives: 1162
+True Positives: 1838
+Precision: 0.9951
+Recall: 0.6127
+TPR: 0.6127
+FPR: 0.0030

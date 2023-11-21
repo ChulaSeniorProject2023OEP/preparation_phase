@@ -1,0 +1,3 @@
+Face Detector,Face Recognizer,Distance Metric,Threshold,Accuracy,Confusion Matrix,True Negatives,False Positives,False Negatives,True Positives,Precision,Recall,TPR,FPR
+yunet,ArcFace,cosine,0.68,0.9261666666666667,"[[2956   44]
+ [ 399 2601]]",2956,44,399,2601,0.9833648393194707,0.867,0.867,0.014666666666666666

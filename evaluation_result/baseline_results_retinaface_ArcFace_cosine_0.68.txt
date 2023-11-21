@@ -1,0 +1,17 @@
+Model Evaluation
+Face Detector: retinaface
+Face Recognizer: ArcFace
+Distance Metric: cosine
+Threshold: 0.68
+Accuracy: 0.9478
+Confusion Matrix:
+[[2898  102]
+ [ 211 2789]]
+True Negatives: 2898
+False Positives: 102
+False Negatives: 211
+True Positives: 2789
+Precision: 0.9647
+Recall: 0.9297
+TPR: 0.9297
+FPR: 0.0340
