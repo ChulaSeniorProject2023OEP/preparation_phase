@@ -1,3 +1,0 @@
-Face Detector,Face Recognizer,Distance Metric,Threshold,Accuracy,Confusion Matrix,True Negatives,False Positives,False Negatives,True Positives,Precision,Recall,TPR,FPR
-yunet,Facenet512,cosine,0.3,0.7601666666666667,"[[2999    1]
- [1438 1562]]",2999,1,1438,1562,0.999360204734485,0.5206666666666667,0.5206666666666667,0.0003333333333333333

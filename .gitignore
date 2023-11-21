@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 /database/verification_images/*
-/database/lfw/*
+/database/*
 deepface
 
 *.npy
